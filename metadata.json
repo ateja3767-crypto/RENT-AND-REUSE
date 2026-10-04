@@ -1,0 +1,8 @@
+{
+  "name": "Remix RentReuse",
+  "description": "Campus peer-to-peer sharing and rental platform for students to borrow tools, textbooks, electronics, and lab equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
